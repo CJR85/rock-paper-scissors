@@ -37,7 +37,7 @@ elif num == 3:
     comp_move = 'scissors'
 
 # Ask a user to enter their move
-
+input("enter your move (rock, paper or scissors): ")
 
 # Print the rock, paper, or scissors ASCII art that corresponds to the player's move
 
