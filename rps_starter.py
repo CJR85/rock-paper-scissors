@@ -49,6 +49,12 @@ elif player_move == 'scissors':
     print(scissors)
 
 # Print the rock, paper, or scissors ASCII art that corresponds to the computer's move
-
+print("COMPUTER MOVE: ")
+if comp_move == 'rock':
+    print(rock)
+elif comp_move == 'paper':
+    print(paper)
+elif comp_move == 'scissors':
+    print(scissors)
 
 # Figure out who wins and print the result!
